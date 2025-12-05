@@ -1,0 +1,66 @@
+#Privacy Policy
+
+Serenity Sleep: White Noise & Calm  
+Last Updated: December 5, 2025
+
+We take your privacy very seriously. This policy clearly explains exactly what we collect, why we collect it, and how we use it.
+
+1. Data We Collect (Very Limited, Mostly Anonymous)
+
+(1) Data You Actively Provide  
+→ None at all.  
+The app requires no registration, no login, no email, and no personal information whatsoever.
+
+(2) Automatically Collected Anonymous Analytics Data (Firebase Analytics)  
+We only use Google Firebase Analytics to help us understand overall app usage (e.g., which white noise sounds are most popular, crash rates) so we can improve the product.  
+Specifically collected items include:  
+- Device type, OS version, device language, country/region (country-level only)  
+- In-app events: opening the app, playing certain sounds, completing breathing exercises, using timers, etc. (all completely anonymous and never linked to any personal identity)  
+- Crash reports (only when the app crashes)  
+  
+All of this data is fully anonymous and cannot identify you as an individual.  
+Firebase Privacy Policy: https://firebase.google.com/support/privacy
+
+(3) Advertising-Related Data (Google AdMob)  
+The free version contains non-intrusive ads (banner + interstitial only; no video ads or pop-ups).  
+Ads are served by Google AdMob, which collects:  
+- Advertising ID (a resettable random identifier)  
+- Approximate location (country/city level only, used to serve more relevant ads)  
+- Device information (used for ad frequency capping)  
+  
+Personalized ads are enabled by default. You can turn them off at any time:  
+→ Android: Settings → Google → Ads → Turn off “Personalized ads” or “Reset advertising ID”  
+→ iOS: Settings → Privacy & Security → Apple Advertising → Turn on “Limit Ad Tracking” or “Reset Advertising Identifier”
+
+AdMob Privacy Policy: https://policies.google.com/privacy
+
+2. Locally Stored Data (Saved Only on Your Device)
+- Your favorite tracks, custom mixes, breathing exercise preferences, timer settings, and downloaded content  
+This data never leaves your phone and is never uploaded to any server. Uninstalling the app deletes everything permanently.
+
+3. Information We Never Collect
+- Name, email, phone number, precise location, contacts, photos, microphone, camera — we request none of these permissions  
+- No other third-party analytics tools (only Firebase)  
+- We never sell or share any of your data with third parties (except anonymized advertising ID for ads)
+  
+4. Children's Privacy
+The app is suitable for all ages, including children under 13.  
+Since we only collect anonymous analytics data and resettable advertising IDs, we fully comply with COPPA, GDPR-K, and other children's privacy regulations.
+
+5. Your Rights & Choices
+- Delete the app at any time → all data is immediately and permanently deleted  
+- Reset advertising ID or disable personalized ads (see instructions above)  
+- If you want to export or delete your Firebase anonymous data, just email us and we will help submit the request to Google
+  
+6. Policy Changes
+If we make any significant changes, we will prominently notify you with a popup on app launch and in the update notes. The new policy takes effect immediately upon publication.
+
+7. Contact Us
+For any privacy questions, email us anytime:  
+longdabo@gmail.com  
+We reply within 24 hours.
+
+Thank you for choosing Serenity Sleep. We promise to collect only the minimum data necessary to improve the app and keep the free version running — so you can sleep peacefully, and so can we.
+
+— The Serenity Sleep Team  
+December 2025
